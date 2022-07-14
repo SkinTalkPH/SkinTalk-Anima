@@ -11,6 +11,8 @@ import {
   ValignTextMiddle,
 } from "../../styledMixins";
 import "./Dashboard.css";
+import { postShdacne } from "../../service/rapid-api";
+
 
 class Dashboard extends React.Component {
   render() {
