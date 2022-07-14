@@ -1,0 +1,19 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --desert-storm: #f8f8f8;
+  --mine-shaft: #333333;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 40px;
+  --font-size-xxxxl: 48px;
+  --font-size-xxxxxl: 64px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-poppins-extrabold: "Poppins-ExtraBold", Helvetica;
+  --font-family-poppins-medium: "Poppins-Medium", Helvetica;
+}
